@@ -26,6 +26,9 @@ Open terminal and try execute some kali linux commands
 Following Categories of pen test tools are identified:
 Information Gathering.
 
+
+## OUTPUT:
+
 Google Hacking:
 
 Google hacking, also known as Google dorking, is a technique that involves using advanced operators to perform targeted searches on Google. These operators can be used to search for specific types of information, such as sensitive data that may have been inadvertently exposed on the web. Here are some advanced operators that can be used for Google hacking:
@@ -33,35 +36,42 @@ Google hacking, also known as Google dorking, is a technique that involves using
 site: This operator allows you to search for pages that are within a specific website or domain. For example, "site:example.com" would search for pages that are on the example.com domain.
 Following searches for all the sites that is in the domain yahoo.com
 
-![Alt text](1.png)
+![2](https://github.com/user-attachments/assets/4487db40-a71c-4fc6-a828-d0731fbaff21)
+
 
 filetype: This operator allows you to search for files of a specific type. For example, "filetype:pdf" would search for all PDF files.
 Following searches for pdf file in the domain yahoo.com
 
-![Alt text](2.png)
+![1](https://github.com/user-attachments/assets/0c4bab79-1915-4973-9f88-05d3f72da808)
+
+
+
 
 intext: This operator allows you to search for pages that contain specific text within the body of the page. For example, "intext:password" would search for pages that contain the word "password" within the body of the page.
 
-![Alt text](3.png)
+![10](https://github.com/user-attachments/assets/0c8a6e4e-93ad-4a73-a217-553d07e9496b)
+
+
 
 inurl: This operator allows you to search for pages that contain specific text within the URL. For example, "inurl:admin" would search for pages that contain the word "admin" within the URL.
 
-![Alt text](4.png)
+![4](https://github.com/user-attachments/assets/04d2583d-51ee-4740-af20-af9b6a0b791b)
 
 
 intitle: This operator allows you to search for pages that contain specific text within the title tag. For example, "intitle:index of" would search for pages that contain "index of" within the title tag.
 
-![Alt text](5.png)
+![6](https://github.com/user-attachments/assets/ac443ab1-a0a0-4cdb-b21b-d85c549f812c)
 
 
 link: This operator allows you to search for pages that link to a specific URL. For example, "link:example.com" would search for pages that link to the example.com domain.
 
-![Alt text](6.png)
+![7](https://github.com/user-attachments/assets/b568dffd-3d55-4d05-bf73-f94ba1e2d284)
 
 
 cache: This operator allows you to view the cached version of a page. For example, "cache:example.com" would show the cached version of the example.com website.
 
- ![Alt text](7.png)
+![8](https://github.com/user-attachments/assets/4464ab03-aad2-4a2e-91cc-6ff29359fba0)
+
 
 
 ## DNS Enumeration
